@@ -1,0 +1,12 @@
+.container {
+  border: solid white;
+}
+
+.anotherContainer {
+  border: solid red;
+  color: blue;
+}
+
+.list {
+  text-align: end;
+}
